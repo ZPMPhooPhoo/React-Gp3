@@ -22,6 +22,7 @@ const Title1: React.FC<Props> = ({ title, text }) => {
           src="https://thetravelblog.samanthadigitalsites.com/wp-content/uploads/2022/09/pexels-taryn-elliott-3889687-1638x2048.jpg"
           alt=""
         />
+        <h1>Hello!</h1>
       </div>
     </div>
 
