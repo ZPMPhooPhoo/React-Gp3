@@ -1,0 +1,11 @@
+#blog{
+  scroll-margin-top: 100px;
+}
+
+.blog_wrap {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+  margin: 0 auto;
+}
